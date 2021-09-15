@@ -1,6 +1,5 @@
 # Handy links and tips on how to embrace Leiden University's digital features
 
-###### [(contact)](https://twitter.com/iconolocode)
 ----
 
 
