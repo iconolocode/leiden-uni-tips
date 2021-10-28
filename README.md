@@ -176,10 +176,13 @@ To find similar books, go to the details of the first book and click on the subj
 
 #### Get **wifi**:
 https://www.eduroam.nl/
+https://www.student.universiteitleiden.nl/binaries/content/assets/ul2staff/ict/handleidingen/manual-connecting-to-wifi-2018-eng.pdf
 https://www.medewerkers.universiteitleiden.nl/ict/ict-werkplek/wifi/wifi-en-eduroam
 
 #### Get **VPN**: 
-https://www.student.universiteitleiden.nl/mededelingen/2019/07/veilig-wifi-vakantie
+[deadlink] https://www.student.universiteitleiden.nl/mededelingen/2019/07/veilig-wifi-vakantie
+instead get info via https://www.surf.nl/en/eduvpn/get-started-with-eduvpn and https://nl.eduvpn.org/portal/home
+For institute access: "//ul.eduvpn.nl"
 
 #### Get **Microsoft Office 360** and **cloud storage**:
 https://www.medewerkers.universiteitleiden.nl/ict/ict-werkplek/software-en-samenwerkingstools/bestanden-delen-en-verzenden
