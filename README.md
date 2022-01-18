@@ -171,6 +171,9 @@ Use the advanced search tool to filter results.
 You can save searches too.
 To find similar books, go to the details of the first book and click on the subject links.
 
+To get an overview of best practices by subject and new publications:
+https://www.bibliotheek.universiteitleiden.nl/subject-guides
+
 ----
 ## Additional things:
 
