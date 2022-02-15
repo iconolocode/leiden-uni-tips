@@ -223,3 +223,4 @@ https://brightspace.universiteitleiden.nl/d2l/lp/inlineHelp/27150/help?titleTerm
 This function doesn't seem to be activated for most of the courses. Here is a case where it is: https://brightspace.universiteitleiden.nl/d2l/le/userprogress/39061/27150/Summary?searchString=&sortField=LastName&sortDirection=0 
 
 https://smart.newrow.com/#/courseDirectory
+https://smart.newrow.com/room/testPage
