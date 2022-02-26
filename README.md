@@ -140,6 +140,13 @@ https://usis.leidenuniv.nl
 ----
 ## Info on buildings
 
+#### Mapiq
+https://universiteitleiden.mapiq.net/
+
+- 3D models / floorplans of the buildings + some foto's of the rooms
+- Indicates elevators and toilets
+- Shows occupation and facilities in rooms
+
 #### Interactive map
 https://www.universiteitleiden.nl/locaties/kaart
 
