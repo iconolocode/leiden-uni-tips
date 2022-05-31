@@ -166,6 +166,7 @@ https://www.bibliotheek.universiteitleiden.nl/over-ons/locaties
 #### Places to study
 https://www.student.universiteitleiden.nl/studie-en-studeren/studie/studiefaciliteiten/studieplekken
 Reservation / check quietness / room map / : https://universiteitleiden.okku.io/
+https://studyspots.universiteitleiden.nl/
 
 ----
 ## Online library
