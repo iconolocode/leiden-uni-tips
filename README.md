@@ -60,18 +60,18 @@ You can get a RSS feed link there
 
 ## Videos and weblectures
 
-The browser versions often have more options than the mobile ones, such as speed ptions.
+The browser versions often have more options than the mobile ones, such as speed options.
 
 #### Videoportal
 This is one of the plaftorms that host video content from Leiden University:
 https://video.leidenuniv.nl/
 Some of the content is locked.
 
-*Often there is an option to put comments or to put captions (under the actions drop menu). They are not really used, but may be handy
+*Often there is an option to put comments or to put captions (under the actions drop menu). They are not really used, but may be handy.
 There is a searchbar under the video, probably to search in the subtitles*
 
 https://video.leidenuniv.nl/history
-Allows you to see which videos you clicked on. There is a filter for complete and partially watched. This is useful to track your progres.
+Allows you to see which videos you clicked on. There is a filter for complete and partially watched. This is useful to track your progress.
 
 https://video.leidenuniv.nl/my-playlists
 You can make playlists
@@ -118,9 +118,11 @@ Minor user interface changes
 #### Studiegids
 https://studiegids.universiteitleiden.nl/
 
-The search bar doesn't seem to look in the course description, only the titles. If you can't find something, try with a normal search machine and indicate studiegids.universiteitleiden.nl
+The searchbar doesn't seem to look in the course description, only the titles. If you can't find something, try with a normal search engine and indicate studiegids.universiteitleiden.nl
 
-By looking at the previous years versions of a course, you may find a external link to a website where the previous edition of the course was hosted. The course may be different this year, so the information in it isn reliable, but could be useful.
+Instead of searching a specific course, by putting a space in the searchbar, all the courses are shown. Then you can narrow it down by filtering by type, semester, level, faculty etc.
+
+By looking at the previous years versions of a course, you may find a external link to a website where the previous edition of the course was hosted. The course may be different this year, so the information in it isn't reliable, but could be useful.
 
 #### Student website
 Depending on the selected program on the homepage bar, different info is shown on
